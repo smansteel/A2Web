@@ -1,4 +1,7 @@
-# ISEP A2 Web Technologies Repository
+# Projet
 
-## Folders
- - projet : Projet final
+## Presentation 
+Application using Spring and HTMX for [TDB GOAL]
+
+## Contributors
+ - Maxime TARDIEU
