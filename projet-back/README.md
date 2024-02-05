@@ -1,7 +1,8 @@
 # Projet
 
 ## Presentation 
-Application using Spring and HTMX for [TDB GOAL]
+Spring Backend for [TDB APP]
 
 ## Contributors
+ - Loïc de la Tullaye
  - Maxime TARDIEU
