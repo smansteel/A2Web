@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "christian-kohler.path-intellisense",
+    "csstools.postcss",
+    "esbenp.prettier-vscode",
+    "tomwhite007.rename-angular-component",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
